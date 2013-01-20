@@ -1,0 +1,1100 @@
+/*.slash, .smashing, .stanley, .steve, .sting, .sum41, .tarja, .tommy, .travis, .tre, .tyler, .vanilla, .way, .wes, .yngwye, .dave, .adam, .adrian, .andy, .angus, .ash, .avril, .axel,
+ .bbking, .billie, .bon, .bono, .bonscott, .bruce, .chester, .dio, .edge, .elvis, .flea, .fred, .genne, .george, .glen, .grohl, .iggy, .jackson, .james, .jim, .jimmy, .joe, .may,
+ .joey, .john, .keidis, .keith, .kerry, .korn, .kurt, .larry, .lars, .lemmy, .lennon, .liam, .liedson, .lydon, .sidius, .mercury, .mick, .noel, .ozzy, .paul, .pete, .phil, .pity,
+ .radio, .rem, .ringo, .robert, .ron, .scor{
+	background: url(sprites.png) no-repeat;
+}*/
+
+/*              SMALL SPRITE                       */
+.s-1, .s-2, .s-3, .s-4, .s-5, .s-6, .s-7, .s-8, .s-9, .s-10, .s-11, .s-12, .s-13, .s-14, .s-15, .s-16, .s-17, .s-18, .s-19, .s-20, .s-21, .s-22, .s-23, .s-24, .s-25, .s-26, .s-27,
+.s-28, .s-29, .s-30, .s-31, .s-32, .s-33, .s-34, .s-35, .s-36, .s-37, .s-38, .s-39, .s-40, .s-41, .s-42, .s-43, .s-44, .s-45, .s-46, .s-47, .s-48, .s-49, .s-50, .s-51, .s-52, .s-53
+, .s-54, .s-55, .s-56, .s-57, .s-58, .s-59, .s-60, .s-61, .s-62, .s-63, .s-64, .s-65, .s-66, .s-67, .s-68, .s-69, .s-70, .s-71, .s-72, .s-73, .s-74, .s-75{
+	background: url(../images/sprites.png) no-repeat;
+	float: left;
+	background-color: white;
+	border: 1px solid orange; 
+	width: 48px;
+	height: 48px;
+}
+.s-fila{
+	border: 1px solid red;
+}
+.s-0 {
+	float: left;
+	background-color: white;
+	border: 1px solid orange; 
+	width: 48px;
+	height: 48px;
+}
+.s-0 .numeroNodo{
+	background-color: white;
+	color: white;
+}
+/* adam */
+.s-1{
+	background-position: 0 -1px ;
+	width: 48px;
+	height: 48px;
+}
+
+/* adrian */
+.s-2{
+	background-position: -50px -1px ;
+	width: 48px;
+	height: 48px;
+}
+
+/* andy */
+.s-3{
+	background-position: -100px 0;
+	width: 48px;
+	height: 48px;
+}
+
+.s-4{
+/* angus */
+	background-position: -151px 0;
+	width: 48px;
+	height: 48px;
+}
+
+.s-5{
+/* ash */
+	background-position: -201px 0;
+	width: 48px;
+	height: 48px;
+}
+
+.s-6{
+/* avril */
+	background-position: -251px 0;
+	width: 48px;
+	height: 48px;
+}
+
+.s-7{
+/* axel */
+	background-position: -301px 0;
+	width: 48px;
+	height: 48px;
+}
+
+.s-8{
+/* bbking */
+	background-position: -351px 0;
+	width: 48px;
+	height: 48px;
+}
+
+.s-9{
+/* billie */
+	background-position: -401px 0;
+	width: 48px;
+	height: 48px;
+}
+
+.s-10{
+/* bon */
+	background-position: -451px 0;
+	width: 48px;
+	height: 48px;
+}
+
+.s-11{
+/* bono */
+	background-position: -501px -1px ;
+	width: 48px;
+	height: 48px;
+}
+
+.s-12{
+/* bonscott */
+	background-position: -551px -1px ;
+	width: 48px;
+	height: 48px;
+}
+
+.s-13{
+/* bruce */
+	background-position: -601px -1px ;
+	width: 48px;
+	height: 48px;
+}
+
+.s-14{
+/* chester */
+	background-position: -650px 0;
+	width: 48px;
+	height: 48px;
+}
+
+.s-15{
+/* dave */
+	background-position: -700px 0;
+	width: 48px;
+	height: 48px;
+}
+
+.s-16{
+/* dio */
+	background-position: 0 -51px ;
+	width: 48px;
+	height: 48px;
+}
+
+.s-17{
+/* edge */
+	background-position: -50px -51px ;
+	width: 48px;
+	height: 48px;
+}
+
+.s-18{
+/* elvis */
+	background-position: -100px -51px ;
+	width: 48px;
+	height: 48px;
+}
+
+.s-19{
+/* flea */
+	background-position: -151px -51px ;
+	width: 48px;
+	height: 48px;
+}
+
+.s-20{
+/* fred */
+	background-position: -201px -51px ;
+	width: 48px;
+	height: 48px;
+}
+
+.s-21{
+/* genne */
+	background-position: -250px -51px ;
+	width: 48px;
+	height: 48px;
+}
+
+.s-22{
+/* george */
+	background-position: -300px -50px ;
+	width: 48px;
+	height: 48px;
+}
+
+.s-23{
+/* glen */
+	background-position: -351px -50px ;
+	width: 48px;
+	height: 48px;
+}
+
+.s-24{
+/* grohl */
+	background-position: -400px -50px ;
+	width: 48px;
+	height: 48px;
+}
+
+.s-25{
+/* iggy */
+	background-position: -450px -50px ;
+	width: 48px;
+	height: 48px;
+}
+
+.s-26{
+/* jackson */
+	background-position: -501px -50px ;
+	width: 48px;
+	height: 48px;
+}
+
+.s-27{
+/* james */
+	background-position: -551px -50px ;
+	width: 48px;
+	height: 48px;
+}
+
+.s-28{
+/* jim */
+	background-position: -601px -50px ;
+	width: 48px;
+	height: 48px;
+}
+
+.s-29{
+/* jimmy */
+	background-position: -651px -50px ;
+	width: 48px;
+	height: 48px;
+}
+
+.s-30{
+/* joe */
+	background-position: -701px -50px ;
+	width: 48px;
+	height: 48px;
+}
+
+.s-31{
+/* joey */
+	background-position: 0 -101px ;
+	width: 48px;
+	height: 48px;
+}
+
+.s-32{
+/* john */
+	background-position: -50px -101px ;
+	width: 48px;
+	height: 48px;
+}
+
+.s-33{
+/* keidis */
+	background-position: -100px -101px ;
+	width: 48px;
+	height: 48px;
+}
+
+.s-34{
+/* keith */
+	background-position: -151px -101px ;
+	width: 48px;
+	height: 48px;
+}
+
+.s-35{
+/* kerry */
+	background-position: -201px -100px ;
+	width: 48px;
+	height: 48px;
+}
+
+.s-36{
+/* korn */
+	background-position: -250px -100px ;
+	width: 48px;
+	height: 48px;
+}
+
+.s-37{
+/* kurt */
+	background-position: -301px -100px ;
+	width: 48px;
+	height: 48px;
+}
+
+.s-38{
+/* larry */
+	background-position: -351px -100px ;
+	width: 48px;
+	height: 48px;
+}
+
+.s-39{
+/* lars */
+	background-position: -401px -100px ;
+	width: 48px;
+	height: 48px;
+}
+
+.s-40{
+/* lemmy */
+	background-position: -451px -100px ;
+	width: 48px;
+	height: 48px;
+}
+
+.s-41{
+/* lennon */
+	background-position: -501px -100px ;
+	width: 48px;
+	height: 48px;
+}
+
+.s-42{
+/* liam */
+	background-position: -551px -100px ;
+	width: 48px;
+	height: 48px;
+}
+
+.s-43{
+/* liedson */
+	background-position: -601px -100px ;
+	width: 48px;
+	height: 48px;
+}
+
+.s-44{
+/* lydon */
+	background-position: -651px -100px ;
+	width: 48px;
+	height: 48px;
+}
+
+.s-45{
+/* may */
+	background-position: -701px -100px ;
+	width: 48px;
+	height: 48px;
+}
+
+.s-46{
+/* mercury */
+	background-position: 0 -151px ;
+	width: 48px;
+	height: 48px;
+}
+
+.s-47{
+/* mick */
+	background-position: -50px -151px ;
+	width: 48px;
+	height: 48px;
+}
+
+.s-48{
+/* noel */
+	background-position: -100px -151px ;
+	width: 48px;
+	height: 48px;
+}
+
+.s-49{
+/* ozzy */
+	background-position: -151px -151px ;
+	width: 48px;
+	height: 48px;
+}
+
+.s-50{
+/* paul */
+	background-position: -201px -150px ;
+	width: 48px;
+	height: 48px;
+}
+
+.s-51{
+/* pete */
+	background-position: -251px -150px ;
+	width: 48px;
+	height: 48px;
+}
+
+.s-52{
+/* phil */
+	background-position: -301px -150px ;
+	width: 48px;
+	height: 48px;
+}
+
+.s-53{
+/* pity */
+	background-position: -350px -150px ;
+	width: 48px;
+	height: 48px;
+}
+
+.s-54{
+/* radio */
+	background-position: -400px -150px ;
+	width: 48px;
+	height: 48px;
+}
+
+.s-55{
+/* rem */
+	background-position: -450px -150px ;
+	width: 48px;
+	height: 48px;
+}
+
+.s-56{
+/* ringo */
+	background-position: -501px -151px ;
+	width: 48px;
+	height: 48px;
+}
+
+.s-57{
+/* robert */
+	background-position: -551px -151px ;
+	width: 48px;
+	height: 48px;
+}
+
+.s-58{
+/* ron */
+	background-position: -601px -150px ;
+	width: 48px;
+	height: 48px;
+}
+
+.s-59{
+/* scor */
+	background-position: -651px -150px ;
+	width: 48px;
+	height: 48px;
+}
+
+.s-60{
+/* sidius */
+	background-position: -700px -150px ;
+	width: 48px;
+	height: 48px;
+}
+
+.s-61{
+/* slash */
+	background-position: 0 -201px ;
+	width: 48px;
+	height: 48px;
+}
+
+.s-62{
+/* smashing */
+	background-position: -51px -201px ;
+	width: 48px;
+	height: 48px;
+}
+
+.s-63{
+/* stanley */
+	background-position: -100px -201px ;
+	width: 48px;
+	height: 48px;
+}
+
+.s-64{
+/* steve */
+	background-position: -150px -201px ;
+	width: 48px;
+	height: 48px;
+}
+
+.s-65{
+/* sting */
+	background-position: -200px -201px ;
+	width: 48px;
+	height: 48px;
+}
+
+.s-66{
+/* sum41 */
+	background-position: -250px -201px ;
+	width: 48px;
+	height: 48px;
+}
+
+.s-67{
+/* tarja */
+	background-position: -300px -201px ;
+	width: 48px;
+	height: 48px;
+}
+
+.s-68{
+/* tommy */
+	background-position: -350px -201px ;
+	width: 48px;
+	height: 48px;
+}
+
+.s-69{
+/* travis */
+	background-position: -400px -201px ;
+	width: 48px;
+	height: 48px;
+}
+
+.s-70{
+/* tre */
+	background-position: -450px -201px ;
+	width: 48px;
+	height: 48px;
+}
+
+.s-71{
+/* tyler */
+	background-position: -500px -201px ;
+	width: 48px;
+	height: 48px;
+}
+
+.s-72{
+/* vanilla */
+	background-position: -550px -201px ;
+	width: 48px;
+	height: 48px;
+}
+
+.s-73{
+/* way */
+	background-position: -600px -201px ;
+	width: 48px;
+	height: 48px;
+}
+
+.s-74{
+/* wes */
+	background-position: -651px -201px ;
+	width: 48px;
+	height: 48px;
+}
+
+.s-75{
+/* yngwye */
+	background-position: -700px -201px ;
+	width: 48px;
+	height: 48px;
+}
+
+
+/*              LARGE SPRITE                       */
+
+/*.yngwye, .slash, .smashing, .stanley, .steve, .sting, .sum41, .tarja, .tommy, .travis, .tre, .tyler, .vanilla, .way, .wes, .pity, .radio, .rem, .ringo, .robert, .ron, .scor, .sidius, .mercury, .mick, .noel, .ozzy, .paul, .pete, .phil, .larry, .lars, .lemmy, .lennon, .liam, .liedson, .lydon, .may, .joey, .john, .keidis, .keith, .kerry, .korn, .kurt, .glen, .grohl, .iggy, .jackson, .james, .jim, .jimmy, .joe, .dio, .edge, .elvis, .flea, .fred, .genne, .george, .adam, .adrian, .andy, .angus, .ash, .avril, .axel, .bbking, .billie, .bon, .bono, .bonscott, .bruce, .chester, .dave{
+	background: url(sprites.png) no-repeat;
+}*/
+
+.l-1, .l-2, .l-3, .l-4, .l-5, .l-6, .l-7, .l-8, .l-9, .l-10, .l-11, .l-12, .l-13, .l-14, .l-15, .l-16, .l-17, .l-18, .l-19, .l-20, .l-21, .l-22, .l-23, .l-24, .l-25, .l-26, .l-27,
+.l-28, .l-29, .l-30, .l-31, .l-32, .l-33, .l-34, .l-35, .l-36, .l-37, .l-38, .l-39, .l-40, .l-41, .l-42, .l-43, .l-44, .l-45, .l-46, .l-47, .l-48, .l-49, .l-50, .l-51, .l-52, .l-53
+, .l-54, .l-55, .l-56, .l-57, .l-58, .l-59, .l-60, .l-61, .l-62, .l-63, .l-64, .l-65, .l-66, .l-67, .l-68, .l-69, .l-70, .l-71, .l-72, .l-73, .l-74, .l-75{
+	background: url(../images/spritesLarge.png) no-repeat;
+	margin:auto;
+	background-color: white;
+	border: 1px solid orange; 
+	width: 96px;
+	height: 96px;
+}
+
+.l-1{
+/* .adam{ */
+	background-position: 0 0;
+	width: 96px;
+	height: 96px;
+}
+
+.l-2{
+/* .adrian{ */
+	background-position: -97px 0;
+	width: 96px;
+	height: 96px;
+}
+
+.l-3{
+/* .andy{ */
+	background-position: -195px 0;
+	width: 96px;
+	height: 96px;
+}
+
+.l-4{
+/* .angus{ */
+	background-position: -292px 0;
+	width: 96px;
+	height: 96px;
+}
+
+.l-5{
+/* .ash{ */
+	background-position: -389px 0;
+	width: 96px;
+	height: 96px;
+}
+
+.l-6{
+/* .avril{ */
+	background-position: -487px 0;
+	width: 96px;
+	height: 96px;
+}
+
+.l-7{
+/* .axel{ */
+	background-position: -583px 0;
+	width: 96px;
+	height: 96px;
+}
+
+.l-8{
+/* .bbking{ */
+	background-position: -680px 0;
+	width: 96px;
+	height: 96px;
+}
+
+.l-9{
+/* .billie{ */
+	background-position: -776px 0;
+	width: 96px;
+	height: 96px;
+}
+
+.l-10{
+/* .bon{ */
+	background-position: -874px 0;
+	width: 96px;
+	height: 96px;
+}
+
+.l-11{
+/* .bono{ */
+	background-position: -971px 0;
+	width: 96px;
+	height: 96px;
+}
+
+.l-12{
+/* .bonscott{ */
+	background-position: -1068px 0;
+	width: 96px;
+	height: 96px;
+}
+
+.l-13{
+/* .bruce{ */
+	background-position: -1165px 0;
+	width: 96px;
+	height: 96px;
+}
+
+.l-14{
+/* .chester{ */
+	background-position: -1262px 0;
+	width: 96px;
+	height: 96px;
+}
+
+.l-15{
+/* .dave{ */
+	background-position: -1359px 0;
+	width: 96px;
+	height: 96px;
+}
+
+.l-16{
+/* .dio{ */
+	background-position: 0 -97px ;
+	width: 96px;
+	height: 96px;
+}
+
+.l-17{
+/* .edge{ */
+	background-position: -97px -97px ;
+	width: 96px;
+	height: 96px;
+}
+
+.l-18{
+/* .elvis{ */
+	background-position: -194px -97px ;
+	width: 96px;
+	height: 96px;
+}
+
+.l-19{
+/* .flea{ */
+	background-position: -291px -97px ;
+	width: 96px;
+	height: 96px;
+}
+
+.l-20{
+/* .fred{ */
+	background-position: -389px -97px ;
+	width: 96px;
+	height: 96px;
+}
+
+.l-21{
+/* .genne{ */
+	background-position: -486px -97px ;
+	width: 96px;
+	height: 96px;
+}
+
+.l-22{
+/* .george{ */
+	background-position: -583px -97px ;
+	width: 96px;
+	height: 96px;
+}
+
+.l-23{
+/* .glen{ */
+	background-position: -680px -97px ;
+	width: 96px;
+	height: 96px;
+}
+
+.l-24{
+/* .grohl{ */
+	background-position: -777px -98px ;
+	width: 96px;
+	height: 96px;
+}
+
+.l-25{
+/* .iggy{ */
+	background-position: -874px -98px ;
+	width: 96px;
+	height: 96px;
+}
+
+.l-26{
+/* .jackson{ */
+	background-position: -971px -98px ;
+	width: 96px;
+	height: 96px;
+}
+
+.l-27{
+/* .james{ */
+	background-position: -1068px -97px ;
+	width: 96px;
+	height: 96px;
+}
+
+.l-28{
+/* .jim{ */
+	background-position: -1165px -97px ;
+	width: 96px;
+	height: 96px;
+}
+
+.l-29{
+/* .jimmy{ */
+	background-position: -1262px -97px ;
+	width: 96px;
+	height: 96px;
+}
+
+.l-30{
+/* .joe{ */
+	background-position: -1359px -97px ;
+	width: 96px;
+	height: 96px;
+}
+
+.l-31{
+/* .joey{ */
+	background-position: 0 -194px ;
+	width: 96px;
+	height: 96px;
+}
+
+.l-32{
+/* .john{ */
+	background-position: -97px -194px ;
+	width: 96px;
+	height: 96px;
+}
+
+.l-33{
+/* .keidis{ */
+	background-position: -194px -194px ;
+	width: 96px;
+	height: 96px;
+}
+
+.l-34{
+/* .keith{ */
+	background-position: -291px -194px ;
+	width: 96px;
+	height: 96px;
+}
+
+.l-35{
+/* .kerry{ */
+	background-position: -389px -194px ;
+	width: 96px;
+	height: 96px;
+}
+
+.l-36{
+/* .korn{ */
+	background-position: -487px -194px ;
+	width: 96px;
+	height: 96px;
+}
+
+.l-37{
+/* .kurt{ */
+	background-position: -584px -194px ;
+	width: 96px;
+	height: 96px;
+}
+
+.l-38{
+/* .larry{ */
+	background-position: -681px -194px ;
+	width: 96px;
+	height: 96px;
+}
+
+.l-39{
+/* .lars{ */
+	background-position: -776px -194px ;
+	width: 96px;
+	height: 96px;
+}
+
+.l-40{
+/* .lemmy{ */
+	background-position: -874px -194px ;
+	width: 96px;
+	height: 96px;
+}
+
+.l-41{
+/* .lennon{ */
+	background-position: -968px -194px ;
+	width: 96px;
+	height: 96px;
+}
+
+.l-42{
+/* .liam{ */
+	background-position: -1066px -194px ;
+	width: 96px;
+	height: 96px;
+}
+
+.l-43{
+/* .liedson{ */
+	background-position: -1163px -194px ;
+	width: 96px;
+	height: 96px;
+}
+
+.l-44{
+/* .lydon{ */
+	background-position: -1261px -194px ;
+	width: 96px;
+	height: 96px;
+}
+
+.l-45{
+/* .may{ */
+	background-position: -1358px -194px ;
+	width: 96px;
+	height: 96px;
+}
+
+.l-46{
+/* .mercury{ */
+	background-position: 0 -291px ;
+	width: 96px;
+	height: 96px;
+}
+
+.l-47{
+/* .mick{ */
+	background-position: -97px -291px ;
+	width: 96px;
+	height: 96px;
+}
+
+.l-48{
+/* .noel{ */
+	background-position: -194px -291px ;
+	width: 96px;
+	height: 96px;
+}
+
+.l-49{
+/* .ozzy{ */
+	background-position: -291px -291px ;
+	width: 96px;
+	height: 96px;
+}
+
+.l-50{
+/* .paul{ */
+	background-position: -388px -291px ;
+	width: 96px;
+	height: 96px;
+}
+
+.l-51{
+/* .pete{ */
+	background-position: -486px -291px ;
+	width: 96px;
+	height: 96px;
+}
+
+.l-52{
+/* .phil{ */
+	background-position: -583px -291px ;
+	width: 96px;
+	height: 96px;
+}
+
+.l-53{
+/* .pity{ */
+	background-position: -680px -291px ;
+	width: 96px;
+	height: 96px;
+}
+
+.l-54{
+/* .radio{ */
+	background-position: -777px -291px ;
+	width: 96px;
+	height: 96px;
+}
+
+.l-55{
+/* .rem{ */
+	background-position: -874px -291px ;
+	width: 96px;
+	height: 96px;
+}
+
+.l-56{
+/* .ringo{ */
+	background-position: -972px -291px ;
+	width: 96px;
+	height: 96px;
+}
+
+.l-57{
+/* .robert{ */
+	background-position: -1066px -291px ;
+	width: 96px;
+	height: 96px;
+}
+
+.l-58{
+/* .ron{ */
+	background-position: -1163px -291px ;
+	width: 96px;
+	height: 96px;
+}
+
+.l-59{
+/* .scor{ */
+	background-position: -1261px -291px ;
+	width: 96px;
+	height: 96px;
+}
+
+.l-60{
+/* .sidius{ */
+	background-position: -1358px -291px ;
+	width: 96px;
+	height: 96px;
+}
+
+.l-61{
+/* .slash{ */
+	background-position: 0 -388px ;
+	width: 96px;
+	height: 96px;
+}
+
+.l-62{
+/* .smashing{ */
+	background-position: -97px -388px ;
+	width: 96px;
+	height: 96px;
+}
+
+.l-63{
+/* .stanley{ */
+	background-position: -194px -388px ;
+	width: 96px;
+	height: 96px;
+}
+
+.l-64{
+/* .steve{ */
+	background-position: -291px -388px ;
+	width: 96px;
+	height: 96px;
+}
+
+.l-65{
+/* .sting{ */
+	background-position: -388px -388px ;
+	width: 96px;
+	height: 96px;
+}
+
+.l-66{
+/* .sum41{ */
+	background-position: -485px -388px ;
+	width: 96px;
+	height: 96px;
+}
+
+.l-67{
+/* .tarja{ */
+	background-position: -582px -388px ;
+	width: 96px;
+	height: 96px;
+}
+
+.l-68{
+/* .tommy{ */
+	background-position: -679px -388px ;
+	width: 96px;
+	height: 96px;
+}
+
+.l-69{
+/* .travis{ */
+	background-position: -776px -388px ;
+	width: 96px;
+	height: 96px;
+}
+
+.l-70{
+/* .tre{ */
+	background-position: -873px -388px ;
+	width: 96px;
+	height: 96px;
+}
+
+.l-71{
+/* .tyler{ */
+	background-position: -970px -388px ;
+	width: 96px;
+	height: 96px;
+}
+
+.l-72{
+/* .vanilla{ */
+	background-position: -1067px -388px ;
+	width: 96px;
+	height: 96px;
+}
+
+.l-73{
+/* .way{ */
+	background-position: -1164px -388px ;
+	width: 96px;
+	height: 96px;
+}
+
+.l-74{
+/* .wes{ */
+	background-position: -1261px -388px ;
+	width: 96px;
+	height: 96px;
+}
+
+.l-75{
+/* .yngwye{ */
+	background-position: -1358px -388px ;
+	width: 96px;
+	height: 96px;
+}
+
